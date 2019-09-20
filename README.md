@@ -1,4 +1,4 @@
-## Open Governance, Risk and Compliance management initiative
+## Open Governance, Risk and Compliance management
 
 ![OpenGRC logo](opengrc-transparent.png)
 
