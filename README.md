@@ -2,4 +2,4 @@
 
 ![OpenGRC logo](opengrc-transparent.png)
 
-### Join us today!
+Current release of the OpenGRC native file format: <https://xml.opengrc.org/2021>
