@@ -1,4 +1,4 @@
-## Open Governance, Risk and Compliance management
+## Welcome to OpenGRC.org!
 
 ![OpenGRC logo](opengrc-transparent.png)
 
